@@ -1,0 +1,11 @@
+{
+  "name": "hjelper",
+  "version": "1.0.0",
+  "description": "Collection of custom ulitaries ",
+  "main": "index.js",
+  "scripts": {
+    "test": "InserTestsHere"
+  },
+  "author": "",
+  "license": "ISC"
+}
